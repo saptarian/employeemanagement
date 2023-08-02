@@ -15,7 +15,7 @@ public class Employee {
         this.title = title;
     }
 
-    // Getter functions for each variable
+    // getter functions for each variable
     public int getEmployee_id() {
         return employee_id;
     }
